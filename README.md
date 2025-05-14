@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 [+] Alias: Roxy
 [+] Function: In the making Full-stack Dev / Open Source Enthusiast
-[+] Known Skills: JavaScript, Python, React
+[+] Known Skills: JavaScript, Python, React, Node.js, Express
 
 
 📡 Connect with Me
