@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 ###
 
-<p align="left">🧠 About Me<br><br>> nmap roxypoc.dev --open-ports<br><br>[+] Alias: Roxy<br>[+] Function: In the making Full-stack Dev / Open Source Enthusiast<br>[+] Known Skills: JavaScript, Python, React, Node.js, Express</p>
+<p align="center">🧠 About Me<br><br>> nmap roxypoc.dev --open-ports<br><br>[+] Alias: Roxy<br>[+] Function: In the making Full-stack Dev / Open Source Enthusiast<br>[+] Known Skills: JavaScript, Python, React, Node.js, Express</p>
 
 ###
 
