@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 ###
 
-<p align="center">🧠 About Me<br><br>> nmap roxypoc.dev --open-ports<br><br>[+] Alias: Roxy<br>[+] Function: In the making IT  / Open Source Enthusiast<br>[+] Known Skills: JavaScript, Python, React, Node.js, Express</p>
+<p align="center">🧠 About Me<br><br>> nmap roxypoc.dev --open-ports<br><br>[+] Alias: Roxy<br>[+] Function: In the making IT  / Open Source Enthusiast<br>[+] Known Skills: JavaScript, Python</p>
 
 ###
 
@@ -24,7 +24,6 @@ Welcome to my GitHub profile!
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -37,12 +36,6 @@ Welcome to my GitHub profile!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
