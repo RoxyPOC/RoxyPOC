@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 <h1 align="center">⚡ RoxyPOC ⚡</h1>
 <p align="center"><i>In the making IT and technology. Explorer. Glitch in the Matrix.</i></p>
-<p align="center">Check my documentation journey of learning labs on my notion link on my profile [https://app.notion.com/p/Learning-Experience-f38bea184632828696d481ff1c27fe14](https://educated-throat-7bc.notion.site/Learning-Experience-f38bea184632828696d481ff1c27fe14?source=copy_link)</p>
+<p align="center">Check my documentation journey of learning labs on my notion link on my profile https://app.notion.com/p/Learning-Experience-f38bea184632828696d481ff1c27fe14](https://educated-throat-7bc.notion.site/Learning-Experience-f38bea184632828696d481ff1c27fe14?source=copy_link](https://educated-throat-7bc.notion.site/Learning-Experience-f38bea184632828696d481ff1c27fe14</p>
 ---
 
 ###
