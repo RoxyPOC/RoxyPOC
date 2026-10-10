@@ -17,6 +17,7 @@ Welcome to my GitHub profile!
   <li><a href="https://github.com/RoxyPOC/Learning-Office-365">Learning Office 365</a> — Microsoft 365 learning notes and exercises</li>
   <li><a href="https://github.com/RoxyPOC/it-projects">IT Projects & Labs</a>s — Windows VM lab, Python backup script, and home network monitoring</li>
   <li><a href="https://github.com/RoxyPOC/Python-pandas-exploration-data">Python & Pandas Exploration</a> — Learning data manipulation with Python</li>
+  <li><a href="https://github.com/RoxyPOC/Active-Directory-Windows-Server-2022">Active Directory Windows-Server-2022</a> — Learning about Active Directory</li>
 </ol>
 
 
