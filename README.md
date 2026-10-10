@@ -5,13 +5,9 @@ Welcome to my GitHub profile!
 <!-- Hi there 👋 I'm RoxyPOC -->
 
 <h1 align="center">⚡ RoxyPOC ⚡</h1>
-<p align="center"><i>In the making IT and technology. Explorer. Glitch in the Matrix.</i></p>
+<p align="center"><i>Trying to improve my skills in IT with building projects and labs with background experience in customer service and graphic design</i></p>
 <p align="center">Check my documentation journey of learning labs on my notion link on my profile https://educated-throat-7bc.notion.site/Learning-Experience-f38bea184632828696d481ff1c27fe14</p>
 ---
-
-###
-
-<p align="center">🧠 About Me<br><br>> nmap roxypoc.dev --open-ports<br><br>[+] Alias: Roxy<br>[+] Function: In the making IT  / Open Source Enthusiast<br>[+] Known Skills: JavaScript, Python</p>
 
 ###
 
