@@ -16,6 +16,13 @@ Welcome to my GitHub profile!
 </div>
 
 ###
+<div align="center">
+# Personal Projects
+- [Learning Office 365](https://github.com/RoxyPOC/Learning-Office-365) 
+- [IT projects: Python File Backup Script, VM Lab Windows 10, Home Network Monitoring](https://github.com/RoxyPOC/it-projects) 
+- [Using pandas with python to extract data)](https://github.com/RoxyPOC/Python-pandas-exploration-data) 
+</div>
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
