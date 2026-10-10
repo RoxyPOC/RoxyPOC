@@ -5,24 +5,20 @@ Welcome to my GitHub profile!
 <!-- Hi there 👋 I'm RoxyPOC -->
 
 <h1 align="center">⚡ RoxyPOC ⚡</h1>
-<p align="center"><i>Trying to improve my skills in IT with building projects and labs with background experience in customer service and graphic design</i></p>
+<p align="center"><i>T I'm building practical IT skills through hands-on labs, troubleshooting exercises, and technical documentation. With background experience in customer service and graphic design. Certified in CompTIA A+ and Microsoft Azure Fundamentals (AZ-900)</i></p>
 <p align="center">Check my documentation journey of learning labs on my notion link on my profile https://educated-throat-7bc.notion.site/Learning-Experience-f38bea184632828696d481ff1c27fe14</p>
----
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RoxyPOC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dark&hide_border=false" height="161" alt="languages graph"  />
-</div>
+<h2>🧪 Featured Projects</h2>
 
-###
-<div align="center">
-# Personal Projects
-- [Learning Office 365](https://github.com/RoxyPOC/Learning-Office-365) 
-- [IT projects: Python File Backup Script, VM Lab Windows 10, Home Network Monitoring](https://github.com/RoxyPOC/it-projects) 
-- [Using pandas with python to extract data)](https://github.com/RoxyPOC/Python-pandas-exploration-data) 
-</div>
-###
+<ol>
+  <li><a href="https://github.com/RoxyPOC/Learning-Office-365">Learning Office 365</a> — Microsoft 365 learning notes and exercises</li>
+  <li><a href="https://github.com/RoxyPOC/it-projects">IT Projects & Labs</a>s — Windows VM lab, Python backup script, and home network monitoring</li>
+  <li><a href="https://github.com/RoxyPOC/Python-pandas-exploration-data">Python & Pandas Exploration</a> — Learning data manipulation with Python</li>
+</ol>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -43,25 +39,7 @@ Welcome to my GitHub profile!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="eleioan97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/electra-ioannidi-824948167/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/eleioan97" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
-
-###
 
 
