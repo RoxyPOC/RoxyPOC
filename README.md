@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 <!-- Hi there 👋 I'm RoxyPOC -->
 
 <h1 align="center">⚡ RoxyPOC ⚡</h1>
-<p align="center"><i>T I'm building practical IT skills through hands-on labs, troubleshooting exercises, and technical documentation. With background experience in customer service and graphic design. Certified in CompTIA A+ and Microsoft Azure Fundamentals (AZ-900)</i></p>
+<p align="center"><i> I'm building practical IT skills through hands-on labs, troubleshooting exercises, and technical documentation. With background experience in customer service and graphic design. Certified in CompTIA A+ and Microsoft Azure Fundamentals (AZ-900)</i></p>
 <p align="center">Check my documentation journey of learning labs on my notion link on my profile https://educated-throat-7bc.notion.site/Learning-Experience-f38bea184632828696d481ff1c27fe14</p>
 
 
